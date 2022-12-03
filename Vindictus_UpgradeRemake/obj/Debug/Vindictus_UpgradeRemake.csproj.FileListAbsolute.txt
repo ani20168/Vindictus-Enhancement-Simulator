@@ -1,0 +1,9 @@
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\bin\Debug\Vindictus_UpgradeRemake.exe.config
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\bin\Debug\Vindictus_UpgradeRemake.exe
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\bin\Debug\Vindictus_UpgradeRemake.pdb
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.csprojAssemblyReference.cache
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.Form1.resources
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.Properties.Resources.resources
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.csproj.GenerateResource.cache
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.exe
+G:\VSproject\Vindictus_UpgradeRemake\Vindictus_UpgradeRemake\obj\Debug\Vindictus_UpgradeRemake.pdb
